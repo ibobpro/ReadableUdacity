@@ -1,0 +1,87 @@
+body .clearify {
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  color: #808080
+}
+a:hover {
+  text-decoration:none;
+  cursor: pointer;
+}
+.btn
+{
+    transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+}
+.btn-read-more
+{
+    padding: 5px;
+    text-align: center;
+    border-radius: 0px;
+    display: inline-block;
+    border: 2px solid #662D91;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+    color:#662D91;
+}
+
+.btn-read-more:hover
+{
+    color: #FFF;
+    background: #662D91;
+}
+.post { border-bottom:1px solid #DDD }
+.post-title {  color:#662D91; }
+.post .glyphicon { margin-right:5px; }
+.post-header-line { border-top:1px solid #DDD;border-bottom:1px solid #DDD;padding:5px 0px 5px 15px;font-size: 12px; }
+.post-content { padding-bottom: 15px;padding-top: 15px;}
+
+.body-of-page {
+  background-image: url("img/grandBodyBg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh
+}
+
+.paper-bg {
+  background-image: url("img/paperBg.png");
+  margin: 0.5em;
+}
+.center-my{
+  margin: auto;
+  width: 96%;
+  padding-top: 1em;
+
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+.voteScoreColorRed{
+  color: red;
+  margin: 0;
+  padding: 0;
+}
+.voteScoreColorGreen{
+  color: green;
+  margin: 0;
+  padding: 0;
+}
+.maxWidth{
+  max-width: 100px;
+}
+.nodecor {
+  text-decoration: none;
+}
+.nodecor:visited {
+  color:#777;
+}
+.nodecor:hover{
+  color: #000;
+}
