@@ -9,8 +9,6 @@ To run the application please install and run also application server.
 
 ### Api server
 
-https://github.com/udacity/reactnd-project-readable-starter/tree/master/api-server
-
 To install and start the API server, run the following commands in servers main directory directory:
 
 * `npm install`
